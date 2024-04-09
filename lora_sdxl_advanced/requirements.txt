@@ -1,0 +1,8 @@
+accelerate
+torchvision
+transformser
+ftfy
+tensorboard
+Jinja2
+peft
+datasets
