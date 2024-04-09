@@ -1,6 +1,6 @@
 accelerate
 torchvision
-transformser
+transformers
 ftfy
 tensorboard
 Jinja2
