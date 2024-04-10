@@ -7,3 +7,4 @@ Jinja2
 peft
 datasets
 wandb
+git+https://github.com/huggingface/diffusers
